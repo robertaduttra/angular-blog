@@ -8,8 +8,7 @@
 - HTML
 - CSS
 - TypeScript
-- Estrutura de components
-- Routes
+
 
 
 # Sobre 📝	
